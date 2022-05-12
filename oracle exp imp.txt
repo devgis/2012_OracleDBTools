@@ -1,0 +1,4 @@
+exp cz/cz@sxjt file=C:\0909 owner=cz
+
+
+imp cz/cz@sxjt file=C:\090801 full=y ignore=y
